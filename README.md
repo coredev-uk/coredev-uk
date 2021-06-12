@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-some cool stats:
+## some cool stats:
+<br>
 <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api?username=coredev-uk&count_private=true&show_icons=true&theme=github_dark" />
 
-some more cool stats:
+##some more cool stats:
+<br>
 <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/top-langs/?username=coredev-uk&theme=github_dark" />
 
-current project:
+##current project:
+<br>
 <a href="https://github.com/cryptofyre/Apple-Music-Electron">
   <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=cryptofyre&theme=github_dark&repo=apple-music-electron" />
 </a>

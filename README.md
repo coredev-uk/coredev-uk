@@ -10,7 +10,7 @@
 
 ## currently working on:
 <br>
-<a href="https://ame.cryptofyre.org/" target="_blank">
+<a href="https://github.com/cryptofyre/Apple-Music-Electron" target="_blank">
   <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=cryptofyre&theme=github_dark&repo=apple-music-electron" />
 </a>
 <br>

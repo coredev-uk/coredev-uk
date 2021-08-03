@@ -10,11 +10,10 @@
 
 ## currently working on:
 <br>
-<a href="https://github.com/cryptofyre/Apple-Music-Electron" target="_blank">
+<a href="https://github.com/Apple-Music-Electron/Apple-Music-Electron" target="_blank">
   <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=cryptofyre&theme=github_dark&repo=apple-music-electron" />
 </a>
 <br>
-with <a href="https://github.com/cryptofyre/">cryptofyre</a>
 
 <!--
 **coredev-uk/coredev-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

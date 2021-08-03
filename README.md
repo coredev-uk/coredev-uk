@@ -11,7 +11,7 @@
 ## currently working on:
 <br>
 <a href="https://github.com/Apple-Music-Electron/Apple-Music-Electron" target="_blank">
-  <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=cryptofyre&theme=github_dark&repo=apple-music-electron" />
+  <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=apple-music-electron&theme=github_dark&repo=apple-music-electron" />
 </a>
 <br>
 

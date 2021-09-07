@@ -1,31 +1,19 @@
+<p align="center">
+  <img alt="Core's GitHub Stats" src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api?username=coredev-uk&count_private=true&show_icons=true&" />
+</p>
+
 ### Hi there 👋
 
-## some cool stats:
-<br>
-<img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api?username=coredev-uk&count_private=true&show_icons=true&theme=github_dark" />
+I'm a Software Developer, Aspiring Graphics Designer and all-around coder with partial knowledge in Python, Lua and JavaScript.
+- 🔭 I’m currently working on [`Apple-Music-Electron`](https://github.com/Apple-Music-Electron/Apple-Music-Electron)
+- 🌱 I’m currently learning `NodeJS`
+- 👯 I’m looking to collaborate with other content creators
+- 📫 How to reach me: 
+  - [<img alt="Twitter" width="15px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />](https://www.twitter.com/core_hdd)
+  - [<img alt="Reddit" width="15px" src="https://image.flaticon.com/icons/svg/2111/2111589.svg" />](https://www.reddit.com/user/core_uk)
+  - [<img alt="Email" width="15px" src="https://image.flaticon.com/icons/svg/732/732200.svg" />](mailto:mail.coreuk@gmail.com)
+- 🖥️ What I currently use: <br>
+![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=linux&color=e1ad01) ![Windows 11](https://img.shields.io/badge/OS-Windows_11-informational?style=for-the-badge&logo=microsoft&color=00a2ed)
 
-## some more cool stats:
-<br>
-<img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/top-langs/?username=coredev-uk&theme=github_dark" />
-
-## currently working on:
-<br>
-<a href="https://github.com/Apple-Music-Electron/Apple-Music-Electron" target="_blank">
-  <img src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api/pin/?username=apple-music-electron&theme=github_dark&repo=apple-music-electron" />
-</a>
-<br>
-
-<!--
-**coredev-uk/coredev-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Like my work?
+[<img alt="Support me on Ko-fi" width="20px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png" />](https://ko-fi.com/coredevelopment)

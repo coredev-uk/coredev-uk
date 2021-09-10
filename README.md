@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Core's GitHub Stats" src="https://github-readme-stats-gocsryy5i-coredev-uk.vercel.app/api?username=coredev-uk&count_private=true&show_icons=true&" />
+  <img alt="Core's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=coredev-uk&count_private=true&show_icons=true" />
 </p>
 
 ### Hi there 👋

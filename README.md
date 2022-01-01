@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 I'm a Software Developer, Aspiring Graphics Designer and all-around coder with experience in Python, Lua and JavaScript.
-- 🔭 I’m currently working on [`Apple-Music-Electron`](https://github.com/Apple-Music-Electron/Apple-Music-Electron)
+- 🔭 I’m currently working on [`Cider`](https://github.com/CiderApp/Cider)
 - 🌱 I’m currently learning `NodeJS`
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: 

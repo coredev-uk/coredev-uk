@@ -16,4 +16,4 @@ I'm a Software Developer, Aspiring Graphics Designer and all-around coder with e
 ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=for-the-badge&logo=linux&color=e1ad01)
 
 ### Like my work?
-[<img alt="Support me on Ko-fi" width="20px" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png" />](https://ko-fi.com/coredevelopment)
+<a href='https://ko-fi.com/A0A264FW4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

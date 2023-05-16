@@ -6,7 +6,7 @@
 [c-disc]: https://discord.gg/applemusic
 [c1]: https://github.com/ciderapp/Cider
 [org]: https://github.com/ciderapp
-[next]: https://github.com/coredev-uk/coredev.uk-next
+[next]: https://github.com/coredev-uk/coredev.uk
 
 ### Hi there! 👋
 I'm a relatively new Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>

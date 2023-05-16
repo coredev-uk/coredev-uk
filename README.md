@@ -16,7 +16,7 @@ I'm also currently studying at university with a specialisation in Software Engi
 
 ### Current Project(s) 💻
 + **Cider 2** - [GitHub][c1] | [Discord][c-disc]
-+ **Next Portfolio** - [GitHub][next] <sub><sup>*(pending initialisation)*</sup></sub>
++ **Next Portfolio** - [Website][next] <sub><sup>*(pending initialisation)*</sup></sub>
 
 ### Where can I contact you? ✉️
 + Twitter: [core_hdd][tw]

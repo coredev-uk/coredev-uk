@@ -1,5 +1,4 @@
 [tw]: https://twitter.com/core_hdd
-[re]: https://www.reddit.com/user/core_uk
 [disc]: https://discord.com/users/546426958465073163
 [mail]: mailto:core@coredev-uk
 
@@ -21,7 +20,6 @@ I'm also currently studying at university with a specialisation in Software Engi
 
 ### Where can I contact you? ✉️
 + Twitter: [core_hdd][tw]
-+ Reddit: [core_uk][re]
 + Discord: [Core#1000][disc]
 + Email: [core@coredev.uk][mail] <sub><sup>(**Do not send unsolicted advertisements or NFT/Web 3 advice.**)</sub></sup>
 

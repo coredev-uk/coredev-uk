@@ -21,7 +21,7 @@ I'm also currently studying at university with a specialisation in Software Engi
 ### Where can I contact you? ✉️
 + Twitter: [core_hdd][tw]
 + Discord: [Core#1000][disc]
-+ Email: [core@coredev.uk][mail] <sub><sup>(**Do not send unsolicted advertisements or NFT/Web 3 advice.**)</sub></sup>
++ Email: [core@coredev.uk][mail] <sub><sup>(**Do not send any unsolicited advertisements/NFT/crypto emails.**)</sub></sup>
 
 ### Hardware <sub><sup>(*[Validation](http://www.3dmark.com/spy/32081645)*)</sup></sub>
 * CPU: **AMD Ryzen 7 3700X**

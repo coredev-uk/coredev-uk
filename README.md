@@ -24,7 +24,7 @@ I'm also currently studying at university with a specialisation in Software Engi
 + Email: [core@coredev.uk][mail] <sub><sup>(**Do not send unsolicted advertisements or NFT/Web 3 advice.**)</sub></sup>
 
 ### Hardware <sub><sup>(*[Validation](http://www.3dmark.com/spy/32081645)*)</sup></sub>
-* CPU: **Ryzen 7 3700x**
+* CPU: **AMD Ryzen 7 3700X**
 * Memory: **2x Corsair Vengance 3200MHz (32GB)**
 * GPU: **NVIDIA Geforce RTX 3080 (10GB)**
 * Headphones: **Audio-Technica ATH-M50xSTS**

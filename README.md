@@ -6,7 +6,7 @@
 [c-disc]: https://discord.gg/applemusic
 [c1]: https://github.com/ciderapp/Cider
 [org]: https://github.com/ciderapp
-[next]: https://coredev.uk
+[nuxt]: https://coredev.uk
 
 ### Hi there! 👋
 I'm a relatively new Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>
@@ -16,7 +16,7 @@ I'm also currently studying at university with a specialisation in Software Engi
 
 ### Current Project(s) 💻
 + **Cider 2** - [GitHub][c1] | [Discord][c-disc]
-+ **Next Portfolio** - [Website][next] <sub><sup>*(pending initialisation)*</sup></sub>
++ **Nuxt Portfolio** - [Website][nuxt]
 
 ### Where can I contact you? ✉️
 + Twitter: [core_hdd][tw]

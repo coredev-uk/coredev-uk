@@ -4,32 +4,21 @@
 
 <!-- Projects -->
 [c-disc]: https://discord.gg/applemusic
-[c1]: https://github.com/ciderapp/Cider
+[c1]: https://cider.sh
 [org]: https://github.com/ciderapp
 [nuxt]: https://coredev.uk
 
 ### Hi there! 👋
-I'm a relatively new Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>
+I'm a Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>
 I currently maintain the CI operations for [Cider Collective][org], along with contributing to both frontend and backend parts where I can.
 
 I'm also currently studying at university with a specialisation in Software Engineering, where I am currently building on my knowledge in Java, SQL, PHP and other evolving technologies.  
 
 ### Current Project(s) 💻
-+ **Cider 2** - [GitHub][c1] | [Discord][c-disc]
++ **Cider 2** - [GitHub][c1] (Closed-Source)
 + **Nuxt Portfolio** - [Website][nuxt]
 
 ### Where can I contact you? ✉️
 + Twitter: [core_hdd][tw]
 + Discord: [Core#1000][disc]
-+ Email: [core@coredev.uk][mail] <sub><sup>(**Do not send any unsolicited advertisements/NFT/crypto emails.**)</sub></sup>
-
-### Hardware <sub><sup>(*[Validation](http://www.3dmark.com/spy/32081645)*)</sup></sub>
-* CPU: **AMD Ryzen 7 3700X**
-* Memory: **2x Corsair Vengance 3200MHz (32GB)**
-* GPU: **NVIDIA Geforce RTX 3080 (10GB)**
-* Headphones: **Audio-Technica ATH-M50xSTS**
-
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-<!-- tyvm crypto :) -->
++ Email: [core@coredev.uk][mail]

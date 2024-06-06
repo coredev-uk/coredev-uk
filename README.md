@@ -4,7 +4,7 @@
 
 <!-- Projects -->
 [c-disc]: https://discord.gg/applemusic
-[c1]: https://cider.sh
+[c2]: https://cider.sh
 [org]: https://github.com/ciderapp
 [nuxt]: https://coredev.uk
 
@@ -15,7 +15,7 @@ I currently maintain the CI operations for [Cider Collective][org], along with c
 I'm also currently studying at university with a specialisation in Software Engineering, where I am currently building on my knowledge in Java, SQL, PHP and other evolving technologies.  
 
 ### Current Project(s) 💻
-+ **Cider 2** - [GitHub][c1] (Closed-Source)
++ **Cider 2** - [Website][c2] (Closed-Source)
 + **Nuxt Portfolio** - [Website][nuxt]
 
 ### Where can I contact you? ✉️

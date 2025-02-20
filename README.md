@@ -7,7 +7,7 @@
 [c2]: https://cider.sh
 [org]: https://github.com/ciderapp
 [nuxt]: https://coredev.uk
-
+<!--
 ### Hi there! 👋
 I'm a Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>
 I currently maintain the CI operations for [Cider Collective][org], along with contributing to both frontend and backend parts where I can.
@@ -22,3 +22,4 @@ I'm also currently studying at university with a specialisation in Software Engi
 + Twitter: [core_hdd][tw]
 + Discord: [Core#1000][disc]
 + Email: [core@coredev.uk][mail]
+-->

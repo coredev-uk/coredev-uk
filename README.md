@@ -1,25 +1,43 @@
-[tw]: https://twitter.com/core_hdd
-[disc]: https://discord.com/users/546426958465073163
-[mail]: mailto:core@coredev-uk
+[tw]: https://twitter.com/core_hdd  
+[disc]: https://discord.com/users/546426958465073163  
+[mail]: mailto:core@coredev-uk  
 
 <!-- Projects -->
-[c-disc]: https://discord.gg/applemusic
-[c2]: https://cider.sh
-[org]: https://github.com/ciderapp
-[nuxt]: https://coredev.uk
-<!--
-### Hi there! 👋
-I'm a Software Engineer based in the United Kingdom specialising in VueJS, TypeScript and DevOps. <br>
-I currently maintain the CI operations for [Cider Collective][org], along with contributing to both frontend and backend parts where I can.
+[c1]: https://github.com/ciderapp/cider  
+[c2]: https://cider.sh  
+[nuxt]: https://coredev.uk  
 
-I'm also currently studying at university with a specialisation in Software Engineering, where I am currently building on my knowledge in Java, SQL, PHP and other evolving technologies.  
+### Hi there! 👋  
 
-### Current Project(s) 💻
-+ **Cider 2** - [Website][c2] (Closed-Source)
-+ **Nuxt Portfolio** - [Website][nuxt]
+I'm a **Software Engineer** based in the United Kingdom, specializing in **Vue.js, TypeScript, Node.js, and DevOps**.  
+I have a strong passion for building scalable web applications, optimizing CI/CD workflows, and working with modern JavaScript frameworks.  
 
-### Where can I contact you? ✉️
-+ Twitter: [core_hdd][tw]
-+ Discord: [Core#1000][disc]
-+ Email: [core@coredev.uk][mail]
--->
+Beyond development, I enjoy automating workflows, working with cloud infrastructure, and contributing to open-source projects.  
+
+### 🔧 Tech Stack & Tools  
+- **Frontend:** Vue.js, Electron, Electron-Forge, TypeScript, CSS/SASS  
+- **Backend:** Node.js, Firebase, S3, esbuild  
+- **DevOps & Cloud:** Docker, Linux, Azure Pipelines, CircleCI, Cloudflare  
+
+### 🎓 Education  
+I'm currently pursuing a **degree in Software Engineering**, where I'm expanding my expertise in Java, SQL, PHP, and other evolving technologies.  
+
+### 🚀 Current Projects  
+- **Nuxt Portfolio** – [Website][nuxt]  
+  - A personal portfolio built with **Nuxt 3** to showcase my work and experiments with modern web technologies.  
+
+### 🔙 Past Projects  
+- **Cider 2** – [Website][c2] (Closed-Source)  
+  - Created and maintained the **backend for macOS and Linux**.  
+  - Assisted in building the **functional side of the frontend**.  
+  - Managed the **CI operations**.  
+
+- **Cider 1** – [GitHub][c1]  
+  - Developed the **backend for all platforms**.  
+  - Assisted in building the **functional frontend**.  
+  - Managed the **CI operations**.  
+
+### 📬 Where to Find Me  
+- **Twitter:** [@core_hdd][tw]  
+- **Discord:** [Core#1000][disc]  
+- **Email:** [core@coredev.uk][mail]  

@@ -19,13 +19,6 @@ Beyond development, I enjoy automating workflows, working with cloud infrastruct
 - **Backend:** Node.js, Firebase, S3, esbuild  
 - **DevOps & Cloud:** Docker, Linux, Azure Pipelines, CircleCI, Cloudflare  
 
-### 🎓 Education  
-I'm currently pursuing a **degree in Software Engineering**, where I'm expanding my expertise in Java, SQL, PHP, and other evolving technologies.  
-
-### 🚀 Current Projects  
-- **Nuxt Portfolio** – [Website][nuxt]  
-  - A personal portfolio built with **Nuxt 3** to showcase my work and experiments with modern web technologies.  
-
 ### 🔙 Past Projects  
 - **Cider 2** – [Website][c2] (Closed-Source)  
   - Created and maintained the **backend for macOS and Linux**.  
